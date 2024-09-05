@@ -43,7 +43,15 @@ assignments = {
       "submitted": false
     }
   ],
-  "ME 290": [],
+  "ME 290": [
+    {
+      "title": "Week 3 attendance (Sept 3 / 5)",
+      "course": "ME 290",
+      "dueDate": "2024-09-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/831286/assignments/4875816/submissions/264628966",
+      "submitted": true
+    }
+  ],
   "ME-200 Division-1": [
     {
       "title": "HW-1",
