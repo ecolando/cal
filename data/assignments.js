@@ -68,7 +68,7 @@ assignments = {
     {
       "title": "Week 3 attendance (Sept 3 / 5)",
       "course": "ME 290",
-      "dueDate": "2024-09-11T23:59:00",
+      "dueDate": "2024-09-12T23:59:00",
       "link": "https://www.gradescope.com/courses/831286/assignments/4875816/submissions/264628966",
       "submitted": true
     }
