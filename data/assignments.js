@@ -71,6 +71,29 @@ assignments = {
       "submitted": false
     }
   ],
+  "ME 270 Exams": [
+    {
+      "title": "Exam 1",
+      "course": "ME 270 Exams",
+      "dueDate": "2024-10-02T22:00:00",
+      "link": "https://www.gradescope.com/courses/790459",
+      "submitted": false
+    },
+    {
+      "title": "Exam 2",
+      "course": "ME 270 Exams",
+      "dueDate": "2024-10-29T22:00:00",
+      "link": "https://www.gradescope.com/courses/790459",
+      "submitted": false
+    },
+    {
+      "title": "Final Exam",
+      "course": "ME 270 Exams",
+      "dueDate": "2024-12-06T21:30:00",
+      "link": "https://www.gradescope.com/courses/790459",
+      "submitted": false
+    }
+  ],
   "ME 290": [
     {
       "title": "Week 3 attendance (Sept 3 / 5)",
