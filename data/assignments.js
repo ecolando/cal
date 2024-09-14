@@ -60,8 +60,8 @@ assignments = {
       "title": "Homework 10.B",
       "course": "ME 270 - 008 LEC",
       "dueDate": "2024-09-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/816473",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/816473/assignments/4699175/submissions/267293623",
+      "submitted": true
     },
     {
       "title": "Homework 11.A",
@@ -157,22 +157,22 @@ assignments = {
       "title": "HW-8",
       "course": "ME-200 Division-1",
       "dueDate": "2024-09-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/827938",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/827938/assignments/4922059/submissions/267293719",
+      "submitted": true
     },
     {
       "title": "HW-9",
       "course": "ME-200 Division-1",
       "dueDate": "2024-09-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/827938",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/827938/assignments/4922062/submissions/267293789",
+      "submitted": true
     },
     {
       "title": "HW-10",
       "course": "ME-200 Division-1",
       "dueDate": "2024-09-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/827938",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/827938/assignments/4922077/submissions/267293844",
+      "submitted": true
     }
   ],
   "wl.202510.MA.30300.319": [
