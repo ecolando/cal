@@ -115,6 +115,20 @@ assignments = {
       "dueDate": "2024-09-20T23:59:00",
       "link": "https://www.gradescope.com/courses/831286/assignments/4973809/submissions/new",
       "submitted": false
+    },
+    {
+      "title": "Statement of Purpose",
+      "course": "ME 290",
+      "dueDate": "2024-11-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/831286",
+      "submitted": false
+    },
+    {
+      "title": "QPR Gatekeeper Certificate",
+      "course": "ME 290",
+      "dueDate": "2024-12-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/831286",
+      "submitted": false
     }
   ],
   "ME-200 Division-1": [
