@@ -224,8 +224,8 @@ assignments = {
       "title": "Homework 4",
       "course": "wl.202510.ME.29700.025",
       "dueDate": "2024-09-17T11:30:00",
-      "link": "https://www.gradescope.com/courses/826851",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/826851/assignments/4877164/submissions/268066945",
+      "submitted": true
     },
     {
       "title": "Homework 5",
