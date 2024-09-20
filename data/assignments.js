@@ -92,7 +92,15 @@ assignments = {
       "submitted": false
     }
   ],
-  "ME 270 - 008 Quiz Submission": [],
+  "ME 270 - 008 Quiz Submission": [
+    {
+      "title": "Group Quiz 1",
+      "course": "ME 270 - 008 Quiz Submission",
+      "dueDate": "2024-09-20T14:30:00",
+      "link": "https://www.gradescope.com/courses/845100",
+      "submitted": false
+    }
+  ],
   "ME 270 Exams": [
     {
       "title": "Exam 1",
@@ -258,6 +266,13 @@ assignments = {
       "title": "Homework #2",
       "course": "wl.202510.MA.30300.319",
       "dueDate": "2024-09-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/833201",
+      "submitted": false
+    },
+    {
+      "title": "Homework #3",
+      "course": "wl.202510.MA.30300.319",
+      "dueDate": "2024-09-29T23:59:00",
       "link": "https://www.gradescope.com/courses/833201",
       "submitted": false
     }
