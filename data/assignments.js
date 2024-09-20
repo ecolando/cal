@@ -92,6 +92,7 @@ assignments = {
       "submitted": false
     }
   ],
+  "ME 270 - 008 Quiz Submission": [],
   "ME 270 Exams": [
     {
       "title": "Exam 1",
