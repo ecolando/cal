@@ -81,8 +81,8 @@ assignments = {
       "title": "Homework 13.A",
       "course": "ME 270 - 008 LEC",
       "dueDate": "2024-09-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/816473",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/816473/assignments/4699227/submissions/269807971",
+      "submitted": true
     },
     {
       "title": "Homework 14.A",
@@ -136,8 +136,8 @@ assignments = {
       "title": "Plan of Study",
       "course": "ME 290",
       "dueDate": "2024-09-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/831286/assignments/4973809/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/831286/assignments/4973809/submissions/269809146",
+      "submitted": true
     },
     {
       "title": "Statement of Purpose",
@@ -236,22 +236,22 @@ assignments = {
       "title": "HW-11",
       "course": "ME-200 Division-1",
       "dueDate": "2024-09-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/827938",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/827938/assignments/4988078/submissions/269807293",
+      "submitted": true
     },
     {
       "title": "HW-12",
       "course": "ME-200 Division-1",
       "dueDate": "2024-09-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/827938",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/827938/assignments/4988080/submissions/269807430",
+      "submitted": true
     },
     {
       "title": "HW-13",
       "course": "ME-200 Division-1",
       "dueDate": "2024-09-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/827938",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/827938/assignments/4988081/submissions/269807477",
+      "submitted": true
     }
   ],
   "wl.202510.MA.30300.319": [
@@ -266,8 +266,8 @@ assignments = {
       "title": "Homework #2",
       "course": "wl.202510.MA.30300.319",
       "dueDate": "2024-09-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/833201",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/833201/assignments/4926945/submissions/269808315",
+      "submitted": true
     },
     {
       "title": "Homework #3",
