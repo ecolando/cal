@@ -92,15 +92,7 @@ assignments = {
       "submitted": true
     }
   ],
-  "ME 270 - 008 Quiz Submission": [
-    {
-      "title": "Group Quiz 1",
-      "course": "ME 270 - 008 Quiz Submission",
-      "dueDate": "2024-09-20T14:30:00",
-      "link": "https://www.gradescope.com/courses/845100",
-      "submitted": false
-    }
-  ],
+  "ME 270 - 008 Quiz Submission": [],
   "ME 270 Exams": [
     {
       "title": "Exam 1",
