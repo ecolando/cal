@@ -173,6 +173,13 @@ assignments = {
       "dueDate": "2024-11-22T23:59:00",
       "link": "https://www.gradescope.com/courses/831286",
       "submitted": false
+    },
+    {
+      "title": "Week 6 attendance (Sept 24 / 26)",
+      "course": "ME 290",
+      "dueDate": "2024-09-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/831286/assignments/5028402/submissions/271692550",
+      "submitted": true
     }
   ],
   "ME-200 Division-1": [
