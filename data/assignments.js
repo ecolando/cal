@@ -180,6 +180,13 @@ assignments = {
       "dueDate": "2024-09-27T23:59:00",
       "link": "https://www.gradescope.com/courses/831286/assignments/5028402/submissions/271692550",
       "submitted": true
+    },
+    {
+      "title": "Netiquette (extra credit)",
+      "course": "ME 290",
+      "dueDate": "2024-11-22T08:41:00",
+      "link": "https://www.gradescope.com/courses/831286/assignments/5055664/submissions/new",
+      "submitted": false
     }
   ],
   "ME-200 Division-1": [
