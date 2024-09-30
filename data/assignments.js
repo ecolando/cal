@@ -389,6 +389,13 @@ assignments = {
       "dueDate": "2024-10-08T11:30:00",
       "link": "https://www.gradescope.com/courses/826851",
       "submitted": false
+    },
+    {
+      "title": "Lab 1: Individual Portion",
+      "course": "wl.202510.ME.29700.025",
+      "dueDate": "2024-10-10T11:30:00",
+      "link": "https://www.gradescope.com/courses/826851",
+      "submitted": false
     }
   ]
 };
