@@ -336,8 +336,8 @@ assignments = {
       "title": "Gradescope LTI 1.3",
       "course": "wl.202510.MA.30300.319",
       "dueDate": "2024-09-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/833201",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/833201/assignments/5009474/submissions/272660198",
+      "submitted": true
     }
   ],
   "wl.202510.ME.29700.025": [
