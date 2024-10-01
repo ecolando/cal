@@ -306,22 +306,22 @@ assignments = {
       "title": "HW-14",
       "course": "ME-200 Division-1",
       "dueDate": "2024-09-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/827938",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/827938/assignments/5004365/submissions/273024488",
+      "submitted": true
     },
     {
       "title": "HW-15",
       "course": "ME-200 Division-1",
       "dueDate": "2024-09-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/827938",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/827938/assignments/5004366/submissions/273024581",
+      "submitted": true
     },
     {
       "title": "HW-16",
       "course": "ME-200 Division-1",
       "dueDate": "2024-09-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/827938",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/827938/assignments/5004367/submissions/273024653",
+      "submitted": true
     }
   ],
   "wl.202510.MA.30300.319": [
@@ -386,7 +386,7 @@ assignments = {
     {
       "title": "Homework 7",
       "course": "wl.202510.ME.29700.025",
-      "dueDate": "2024-10-08T11:30:00",
+      "dueDate": "2024-10-10T11:30:00",
       "link": "https://www.gradescope.com/courses/826851",
       "submitted": false
     },
