@@ -217,6 +217,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Week 7 attendance (Oct 1 / 3)",
+      "course": "ME 290",
+      "dueDate": "2024-10-05T09:01:00",
+      "link": "https://www.gradescope.com/courses/831286/assignments/5077751/submissions/274103423",
+      "submitted": true
+    },
+    {
       "title": "Weekly message - Week 7",
       "course": "ME 290",
       "dueDate": "2024-10-05T23:59:00",
