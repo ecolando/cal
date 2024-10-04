@@ -134,8 +134,8 @@ assignments = {
       "title": "Exam 1",
       "course": "ME 270 Exams",
       "dueDate": "2024-10-03T22:00:00",
-      "link": "https://www.gradescope.com/courses/790459",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/790459/assignments/4536779/submissions/274309294",
+      "submitted": true
     },
     {
       "title": "Exam 2",
