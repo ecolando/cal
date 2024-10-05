@@ -357,6 +357,20 @@ assignments = {
       "dueDate": "2024-10-04T23:59:00",
       "link": "https://www.gradescope.com/courses/827938/assignments/5090549/submissions/274694426",
       "submitted": true
+    },
+    {
+      "title": "HW-19",
+      "course": "ME-200 Division-1",
+      "dueDate": "2024-10-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/827938",
+      "submitted": false
+    },
+    {
+      "title": "HW-20",
+      "course": "ME-200 Division-1",
+      "dueDate": "2024-10-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/827938",
+      "submitted": false
     }
   ],
   "wl.202510.MA.30300.319": [
