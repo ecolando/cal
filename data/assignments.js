@@ -227,7 +227,7 @@ assignments = {
       "title": "Weekly message - Week 7",
       "course": "ME 290",
       "dueDate": "2024-10-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/831286/assignments/5077968/submissions/new",
+      "link": "https://www.gradescope.com/courses/831286",
       "submitted": false
     }
   ],
