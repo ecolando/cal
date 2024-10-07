@@ -394,6 +394,20 @@ assignments = {
       "dueDate": "2024-09-29T23:59:00",
       "link": "https://www.gradescope.com/courses/833201/assignments/5009474/submissions/272660198",
       "submitted": true
+    },
+    {
+      "title": "Homework #4",
+      "course": "wl.202510.MA.30300.319",
+      "dueDate": "2024-10-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/833201",
+      "submitted": false
+    },
+    {
+      "title": "Homework #5",
+      "course": "wl.202510.MA.30300.319",
+      "dueDate": "2024-10-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/833201",
+      "submitted": false
     }
   ],
   "wl.202510.ME.29700.025": [
