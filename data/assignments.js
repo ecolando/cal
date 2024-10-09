@@ -116,8 +116,8 @@ assignments = {
       "title": "Homework 18.A",
       "course": "ME 270 - 008 LEC",
       "dueDate": "2024-10-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/816473",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/816473/assignments/4699248/submissions/276138439",
+      "submitted": true
     },
     {
       "title": "Homework 19.B",
@@ -463,7 +463,7 @@ assignments = {
     {
       "title": "Lab 1: Individual Portion",
       "course": "wl.202510.ME.29700.025",
-      "dueDate": "2024-10-10T11:30:00",
+      "dueDate": "2024-10-10T21:00:00",
       "link": "https://www.gradescope.com/courses/826851",
       "submitted": false
     },
