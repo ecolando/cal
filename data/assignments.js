@@ -229,13 +229,6 @@ assignments = {
       "dueDate": "2024-10-05T09:01:00",
       "link": "https://www.gradescope.com/courses/831286/assignments/5077751/submissions/274103423",
       "submitted": true
-    },
-    {
-      "title": "Weekly message - Week 7",
-      "course": "ME 290",
-      "dueDate": "2024-10-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/831286",
-      "submitted": false
     }
   ],
   "ME-200 Division-1": [
@@ -457,7 +450,7 @@ assignments = {
       "title": "Homework 7",
       "course": "wl.202510.ME.29700.025",
       "dueDate": "2024-10-10T11:30:00",
-      "link": "https://www.gradescope.com/courses/826851/assignments/5058258/submissions/273253312",
+      "link": "https://www.gradescope.com/courses/826851/assignments/5058258/submissions/276504084",
       "submitted": true
     },
     {
