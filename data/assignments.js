@@ -457,8 +457,8 @@ assignments = {
       "title": "Lab 1: Individual Portion",
       "course": "wl.202510.ME.29700.025",
       "dueDate": "2024-10-10T21:00:00",
-      "link": "https://www.gradescope.com/courses/826851",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/826851/assignments/5071802/submissions/276721589",
+      "submitted": true
     },
     {
       "title": "Homework 8",
