@@ -130,8 +130,8 @@ assignments = {
       "title": "Homework 20.B",
       "course": "ME 270 - 008 LEC",
       "dueDate": "2024-10-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/816473",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/816473/assignments/4699259/submissions/277356296",
+      "submitted": true
     }
   ],
   "ME 270 - 008 Quiz Submission": [
