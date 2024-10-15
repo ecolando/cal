@@ -501,6 +501,13 @@ assignments = {
       "dueDate": "2024-10-17T11:30:00",
       "link": "https://www.gradescope.com/courses/826851",
       "submitted": false
+    },
+    {
+      "title": "Practical Midterm",
+      "course": "wl.202510.ME.29700.025",
+      "dueDate": "2024-10-15T13:20:00",
+      "link": "https://www.gradescope.com/courses/826851",
+      "submitted": false
     }
   ]
 };
