@@ -513,8 +513,8 @@ assignments = {
       "title": "Homework 8",
       "course": "wl.202510.ME.29700.025",
       "dueDate": "2024-10-17T11:30:00",
-      "link": "https://www.gradescope.com/courses/826851",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/826851/assignments/5110779/submissions/278915871",
+      "submitted": true
     },
     {
       "title": "Practical Midterm",
