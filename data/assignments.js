@@ -418,22 +418,22 @@ assignments = {
       "title": "HW-21",
       "course": "ME-200 Division-1",
       "dueDate": "2024-10-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/827938",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/827938/assignments/5148929/submissions/279989482",
+      "submitted": true
     },
     {
       "title": "HW-22",
       "course": "ME-200 Division-1",
       "dueDate": "2024-10-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/827938",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/827938/assignments/5148930/submissions/279989544",
+      "submitted": true
     },
     {
       "title": "HW-23",
       "course": "ME-200 Division-1",
       "dueDate": "2024-10-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/827938",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/827938/assignments/5148931/submissions/279989621",
+      "submitted": true
     }
   ],
   "wl.202510.MA.30300.319": [
