@@ -153,6 +153,13 @@ assignments = {
       "dueDate": "2024-10-21T23:59:00",
       "link": "https://www.gradescope.com/courses/816473/assignments/4699264/submissions/280097284",
       "submitted": true
+    },
+    {
+      "title": "Homework 24.B",
+      "course": "ME 270 - 008 LEC",
+      "dueDate": "2024-10-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/816473",
+      "submitted": false
     }
   ],
   "ME 270 - 008 Quiz Submission": [
@@ -236,6 +243,13 @@ assignments = {
       "dueDate": "2024-09-27T23:59:00",
       "link": "https://www.gradescope.com/courses/831286/assignments/5028402/submissions/271692550",
       "submitted": true
+    },
+    {
+      "title": "Week 10 attendance (Oct 22 / 24)",
+      "course": "ME 290",
+      "dueDate": "2024-10-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/831286",
+      "submitted": false
     },
     {
       "title": "Netiquette (extra credit)",
