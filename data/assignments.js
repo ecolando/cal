@@ -245,13 +245,6 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "Week 10 attendance (Oct 22 / 24)",
-      "course": "ME 290",
-      "dueDate": "2024-10-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/831286",
-      "submitted": false
-    },
-    {
       "title": "Netiquette (extra credit)",
       "course": "ME 290",
       "dueDate": "2024-11-22T23:59:00",
