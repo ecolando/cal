@@ -160,6 +160,13 @@ assignments = {
       "dueDate": "2024-10-23T23:59:00",
       "link": "https://www.gradescope.com/courses/816473/assignments/4699268/submissions/280655235",
       "submitted": true
+    },
+    {
+      "title": "Homework 25.A",
+      "course": "ME 270 - 008 LEC",
+      "dueDate": "2024-10-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/816473",
+      "submitted": false
     }
   ],
   "ME 270 - 008 Quiz Submission": [
