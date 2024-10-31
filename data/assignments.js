@@ -276,7 +276,7 @@ assignments = {
       "title": "Attend the ME Forum (extra credit)",
       "course": "ME 290",
       "dueDate": "2024-10-31T16:43:00",
-      "link": "https://www.gradescope.com/courses/831286/assignments/5060605/submissions/new",
+      "link": "https://www.gradescope.com/courses/831286",
       "submitted": false
     },
     {
