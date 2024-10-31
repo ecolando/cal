@@ -299,6 +299,13 @@ assignments = {
       "dueDate": "2024-10-19T09:01:00",
       "link": "https://www.gradescope.com/courses/831286/assignments/5158039/submissions/278967989",
       "submitted": true
+    },
+    {
+      "title": "Week 11 attendance (Oct 29 / 31)",
+      "course": "ME 290",
+      "dueDate": "2024-11-02T09:01:00",
+      "link": "https://www.gradescope.com/courses/831286/assignments/5238352/submissions/284137979",
+      "submitted": true
     }
   ],
   "ME-200 Division-1": [
