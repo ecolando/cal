@@ -552,7 +552,7 @@ assignments = {
     {
       "title": "Homework #6",
       "course": "wl.202510.MA.30300.319",
-      "dueDate": "2024-11-01T23:59:00",
+      "dueDate": "2024-11-03T23:59:00",
       "link": "https://www.gradescope.com/courses/833201",
       "submitted": false
     },
