@@ -259,6 +259,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Campus Resource slide",
+      "course": "ME 290",
+      "dueDate": "2024-11-14T13:30:00",
+      "link": "https://www.gradescope.com/courses/831286",
+      "submitted": false
+    },
+    {
       "title": "Meet with an instructor outside of class",
       "course": "ME 290",
       "dueDate": "2024-11-22T23:59:00",
