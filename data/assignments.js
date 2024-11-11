@@ -200,8 +200,8 @@ assignments = {
       "title": "Homework 30.A",
       "course": "ME 270 - 008 LEC",
       "dueDate": "2024-11-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/816473",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/816473/assignments/4699320/submissions/287872740",
+      "submitted": true
     },
     {
       "title": "Homework 31.A",
