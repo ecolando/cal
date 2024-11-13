@@ -369,6 +369,13 @@ assignments = {
       "dueDate": "2024-11-12T15:00:00",
       "link": "https://www.gradescope.com/courses/831286",
       "submitted": false
+    },
+    {
+      "title": "Snackulty - Oct 10 (extra credit)",
+      "course": "ME 290",
+      "dueDate": "2024-09-18T10:32:00",
+      "link": "https://www.gradescope.com/courses/831286",
+      "submitted": false
     }
   ],
   "ME-200 Division-1": [
