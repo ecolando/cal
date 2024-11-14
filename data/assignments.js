@@ -290,8 +290,8 @@ assignments = {
       "title": "Campus Resource slide",
       "course": "ME 290",
       "dueDate": "2024-11-14T13:30:00",
-      "link": "https://www.gradescope.com/courses/831286",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/831286/assignments/4980058/submissions/288963298",
+      "submitted": true
     },
     {
       "title": "Meet with an instructor outside of class",
@@ -758,8 +758,8 @@ assignments = {
       "title": "Lab 3: Individual Portion",
       "course": "wl.202510.ME.29700.025",
       "dueDate": "2024-11-14T11:30:00",
-      "link": "https://www.gradescope.com/courses/826851",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/826851/assignments/5245138/submissions/288956279",
+      "submitted": true
     }
   ]
 };
