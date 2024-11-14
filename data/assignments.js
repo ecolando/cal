@@ -367,7 +367,7 @@ assignments = {
       "title": "Week 13 attendance (Nov 12 / 14)",
       "course": "ME 290",
       "dueDate": "2024-11-14T10:00:00",
-      "link": "https://www.gradescope.com/courses/831286/assignments/5309494/submissions/new",
+      "link": "https://www.gradescope.com/courses/831286",
       "submitted": false
     },
     {
