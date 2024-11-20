@@ -336,6 +336,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Snackulty - Sept 18 (extra credit)",
+      "course": "ME 290",
+      "dueDate": "2024-09-18T10:32:00",
+      "link": "https://www.gradescope.com/courses/831286",
+      "submitted": false
+    },
+    {
       "title": "Week 6 attendance (Sept 24 / 26)",
       "course": "ME 290",
       "dueDate": "2024-09-27T23:59:00",
