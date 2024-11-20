@@ -267,6 +267,13 @@ assignments = {
       "dueDate": "2024-12-06T12:59:00",
       "link": "https://www.gradescope.com/courses/845100",
       "submitted": false
+    },
+    {
+      "title": "Group Quiz 4",
+      "course": "ME 270 - 008 Quiz Submission",
+      "dueDate": "2024-11-20T17:00:00",
+      "link": "https://www.gradescope.com/courses/845100",
+      "submitted": false
     }
   ],
   "ME 270 Exams": [
@@ -423,6 +430,13 @@ assignments = {
       "title": "Week 14 attendance (Nov 19 / 21)",
       "course": "ME 290",
       "dueDate": "2024-11-23T09:01:00",
+      "link": "https://www.gradescope.com/courses/831286",
+      "submitted": false
+    },
+    {
+      "title": "Snackulty - Sept 24 (extra credit)",
+      "course": "ME 290",
+      "dueDate": "2024-09-18T10:32:00",
       "link": "https://www.gradescope.com/courses/831286",
       "submitted": false
     }
