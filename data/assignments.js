@@ -325,8 +325,8 @@ assignments = {
       "title": "QPR Gatekeeper Certificate",
       "course": "ME 290",
       "dueDate": "2024-12-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/831286",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/831286/assignments/4980036/submissions/291507471",
+      "submitted": true
     },
     {
       "title": "Campus Resource slide",
@@ -430,8 +430,8 @@ assignments = {
       "title": "Week 14 attendance (Nov 19 / 21)",
       "course": "ME 290",
       "dueDate": "2024-11-23T09:01:00",
-      "link": "https://www.gradescope.com/courses/831286",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/831286/assignments/5346832/submissions/291506894",
+      "submitted": true
     },
     {
       "title": "Snackulty - Sept 24 (extra credit)",
