@@ -374,7 +374,7 @@ assignments = {
       "title": "Netiquette (extra credit)",
       "course": "ME 290",
       "dueDate": "2024-11-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/831286/assignments/5055664/submissions/new",
+      "link": "https://www.gradescope.com/courses/831286",
       "submitted": false
     },
     {
@@ -388,7 +388,7 @@ assignments = {
       "title": "Attend a Company Info Session (extra credit)",
       "course": "ME 290",
       "dueDate": "2024-11-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/831286/assignments/5060614/submissions/new",
+      "link": "https://www.gradescope.com/courses/831286",
       "submitted": false
     },
     {
