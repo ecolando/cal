@@ -244,6 +244,13 @@ assignments = {
       "dueDate": "2024-11-25T23:59:00",
       "link": "https://www.gradescope.com/courses/816473",
       "submitted": false
+    },
+    {
+      "title": "Homework 37.B",
+      "course": "ME 270 - 008 LEC",
+      "dueDate": "2024-12-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/816473",
+      "submitted": false
     }
   ],
   "ME 270 - 008 Quiz Submission": [
