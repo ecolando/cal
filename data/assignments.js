@@ -279,8 +279,8 @@ assignments = {
       "title": "Class Evaluation Submission",
       "course": "ME 270 - 008 Quiz Submission",
       "dueDate": "2024-12-06T12:59:00",
-      "link": "https://www.gradescope.com/courses/845100",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/845100/assignments/5343904/submissions/293021248",
+      "submitted": true
     },
     {
       "title": "Group Quiz 4",
