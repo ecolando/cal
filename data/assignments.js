@@ -465,14 +465,14 @@ assignments = {
       "title": "Foundation for Well-Being (extra credit)",
       "course": "ME 290",
       "dueDate": "2024-12-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/831286/assignments/5359748/submissions/new",
+      "link": "https://www.gradescope.com/courses/831286",
       "submitted": false
     },
     {
       "title": "Suicide Prevention (extra credit)",
       "course": "ME 290",
       "dueDate": "2024-12-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/831286/assignments/5359868/submissions/new",
+      "link": "https://www.gradescope.com/courses/831286",
       "submitted": false
     }
   ],
