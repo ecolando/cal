@@ -153,8 +153,8 @@ assignments = {
       "title": "Homework 1 - (H.1.A, H.1.B)",
       "course": "ME 274 - Krousgrill - 1:30 - Spring 2025",
       "dueDate": "2025-01-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/948731",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/948731/assignments/5587556/submissions/299832414",
+      "submitted": true
     }
   ],
   "wl.202520.ME.26300.220": [
@@ -162,6 +162,13 @@ assignments = {
       "title": "Deliverable 1",
       "course": "wl.202520.ME.26300.220",
       "dueDate": "2025-01-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/952581",
+      "submitted": false
+    },
+    {
+      "title": "Deliverable 2",
+      "course": "wl.202520.ME.26300.220",
+      "dueDate": "2025-01-21T10:30:00",
       "link": "https://www.gradescope.com/courses/952581",
       "submitted": false
     }
