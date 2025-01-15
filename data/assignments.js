@@ -155,6 +155,13 @@ assignments = {
       "dueDate": "2025-01-15T23:59:00",
       "link": "https://www.gradescope.com/courses/948731/assignments/5587556/submissions/299832414",
       "submitted": true
+    },
+    {
+      "title": "Homework 2 - (H.1.C, H.1.D)",
+      "course": "ME 274 - Krousgrill - 1:30 - Spring 2025",
+      "dueDate": "2025-01-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/948731",
+      "submitted": false
     }
   ],
   "wl.202520.ME.26300.220": [
