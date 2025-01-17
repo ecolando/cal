@@ -169,6 +169,13 @@ assignments = {
       "dueDate": "2025-01-22T23:59:00",
       "link": "https://www.gradescope.com/courses/948731",
       "submitted": false
+    },
+    {
+      "title": "Quiz02",
+      "course": "ME 274 - Krousgrill - 1:30 - Spring 2025",
+      "dueDate": "2025-01-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/948731",
+      "submitted": false
     }
   ],
   "wl.202520.ME.26300.220": [
