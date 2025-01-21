@@ -199,6 +199,13 @@ assignments = {
       "dueDate": "2025-01-23T10:30:00",
       "link": "https://www.gradescope.com/courses/952581",
       "submitted": false
+    },
+    {
+      "title": "Deliverable 4",
+      "course": "wl.202520.ME.26300.220",
+      "dueDate": "2025-01-28T10:30:00",
+      "link": "https://www.gradescope.com/courses/952581",
+      "submitted": false
     }
   ]
 };
