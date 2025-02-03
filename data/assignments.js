@@ -209,8 +209,8 @@ assignments = {
       "title": "Homework 8 - (H.2.E, H.2.F)",
       "course": "ME 274 - Krousgrill - 1:30 - Spring 2025",
       "dueDate": "2025-02-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/948731",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/948731/assignments/5623702/submissions/304480519",
+      "submitted": true
     }
   ],
   "wl.202520.ME.26300.220": [
