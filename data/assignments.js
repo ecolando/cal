@@ -276,6 +276,13 @@ assignments = {
       "dueDate": "2025-01-30T23:59:00",
       "link": "https://www.gradescope.com/courses/952581/assignments/5685116/submissions/303733453",
       "submitted": true
+    },
+    {
+      "title": "Full Paper Draft",
+      "course": "wl.202520.ME.26300.220",
+      "dueDate": "2025-02-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/952581",
+      "submitted": false
     }
   ]
 };
