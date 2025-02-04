@@ -1,4 +1,5 @@
 assignments = {
+  "ECE 20001 Lecture": [],
   "ECE20007-022": [
     {
       "title": "Experiment 3 Notebook",
