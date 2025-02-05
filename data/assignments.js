@@ -219,6 +219,13 @@ assignments = {
       "dueDate": "2025-02-05T23:59:00",
       "link": "https://www.gradescope.com/courses/948731",
       "submitted": false
+    },
+    {
+      "title": "Homework 10 - (H.2.I, H.2.J)",
+      "course": "ME 274 - Krousgrill - 1:30 - Spring 2025",
+      "dueDate": "2025-02-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/948731",
+      "submitted": false
     }
   ],
   "wl.202520.ME.26300.220": [
