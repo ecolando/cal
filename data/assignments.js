@@ -4,7 +4,7 @@ assignments = {
     {
       "title": "Experiment 3 Notebook",
       "course": "ECE20007-022",
-      "dueDate": "2025-02-13T23:59:00",
+      "dueDate": "2025-02-20T23:59:00",
       "link": "https://www.gradescope.com/courses/949439",
       "submitted": false
     },
@@ -25,7 +25,7 @@ assignments = {
     {
       "title": "Experiment 3 Writeup",
       "course": "ECE20007-022",
-      "dueDate": "2025-02-13T23:59:00",
+      "dueDate": "2025-02-20T23:59:00",
       "link": "https://www.gradescope.com/courses/949439",
       "submitted": false
     },
