@@ -40,8 +40,8 @@ assignments = {
       "title": "Experiment 2 Notebook",
       "course": "ECE20007-022",
       "dueDate": "2025-02-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/949439",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949439/assignments/5578061/submissions/305819296",
+      "submitted": true
     },
     {
       "title": "Experiment 1 Writeup",
@@ -96,8 +96,8 @@ assignments = {
       "title": "Experiment 2 Writeup",
       "course": "ECE20007-022",
       "dueDate": "2025-02-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/949439",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949439/assignments/5578069/submissions/305820189",
+      "submitted": true
     },
     {
       "title": "Wheatstone Bridge Bonus Project Report",
