@@ -231,8 +231,8 @@ assignments = {
       "title": "Homework 11 - (H.3.A, H.3.B)",
       "course": "ME 274 - Krousgrill - 1:30 - Spring 2025",
       "dueDate": "2025-02-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/948731",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/948731/assignments/5623720/submissions/307211932",
+      "submitted": true
     },
     {
       "title": "Homework 12 - (H.3.C, H.3.D)",
