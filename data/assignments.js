@@ -359,8 +359,8 @@ assignments = {
       "title": "Phase 1 Report",
       "course": "wl.202520.ME.26300.220",
       "dueDate": "2025-02-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/952581",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/952581/assignments/5803393/submissions/309819934",
+      "submitted": true
     }
   ]
 };
