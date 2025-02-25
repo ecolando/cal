@@ -266,8 +266,8 @@ assignments = {
       "title": "Homework 16 - (H.4.A, H.4.B)",
       "course": "ME 274 - Krousgrill - 1:30 - Spring 2025",
       "dueDate": "2025-02-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/948731",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/948731/assignments/5623726/submissions/311755366",
+      "submitted": true
     },
     {
       "title": "Homework 17 - (H.4.C, H.4.D)",
@@ -338,8 +338,8 @@ assignments = {
       "title": "Deliverable 8",
       "course": "wl.202520.ME.26300.220",
       "dueDate": "2025-02-25T10:30:00",
-      "link": "https://www.gradescope.com/courses/952581",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/952581/assignments/5671934/submissions/311758932",
+      "submitted": true
     },
     {
       "title": "Paper Draft #1 Introduction and Project Plan",
