@@ -363,6 +363,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Deliverable 10",
+      "course": "wl.202520.ME.26300.220",
+      "dueDate": "2025-03-04T10:30:00",
+      "link": "https://www.gradescope.com/courses/952581",
+      "submitted": false
+    },
+    {
       "title": "Full Paper Draft",
       "course": "wl.202520.ME.26300.220",
       "dueDate": "2025-02-06T23:59:00",
