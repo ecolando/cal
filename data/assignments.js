@@ -415,8 +415,8 @@ assignments = {
       "title": "Phase 2 Paper Draft #1",
       "course": "wl.202520.ME.26300.220",
       "dueDate": "2025-02-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/952581",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/952581/assignments/5849358/submissions/313038211",
+      "submitted": true
     }
   ]
 };
