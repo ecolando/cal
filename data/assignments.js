@@ -75,8 +75,8 @@ assignments = {
       "title": "Experiment 5 Notebook",
       "course": "ECE20007-022",
       "dueDate": "2025-02-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/949439",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949439/assignments/5578066/submissions/312983809",
+      "submitted": true
     },
     {
       "title": "Mini Project Notebook",
@@ -110,8 +110,8 @@ assignments = {
       "title": "Experiment 5 Writeup",
       "course": "ECE20007-022",
       "dueDate": "2025-02-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/949439",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949439/assignments/5578071/submissions/312983141",
+      "submitted": true
     },
     {
       "title": "Mini Project Report",
