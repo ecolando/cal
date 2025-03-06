@@ -294,8 +294,8 @@ assignments = {
       "title": "Homework 20 - (H.4.I, H.4.J)",
       "course": "ME 274 - Krousgrill - 1:30 - Spring 2025",
       "dueDate": "2025-03-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/948731",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/948731/assignments/5623732/submissions/314827201",
+      "submitted": true
     },
     {
       "title": "Homework 21 - (H.4.K, H.4.L)",
