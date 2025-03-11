@@ -466,6 +466,13 @@ assignments = {
       "dueDate": "2025-03-13T23:59:00",
       "link": "https://www.gradescope.com/courses/952581",
       "submitted": false
+    },
+    {
+      "title": "Presentation 2 - DRAFT",
+      "course": "wl.202520.ME.26300.220",
+      "dueDate": "2025-03-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/952581",
+      "submitted": false
     }
   ]
 };
