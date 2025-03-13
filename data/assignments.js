@@ -61,8 +61,8 @@ assignments = {
       "title": "Experiment 7 Writeup",
       "course": "ECE20007-022",
       "dueDate": "2025-03-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/949439",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949439/assignments/5578064/submissions/316950208",
+      "submitted": true
     },
     {
       "title": "Experiment 8 Notebook",
