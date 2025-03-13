@@ -429,8 +429,8 @@ assignments = {
       "title": "Deliverable 12",
       "course": "wl.202520.ME.26300.220",
       "dueDate": "2025-03-13T10:30:00",
-      "link": "https://www.gradescope.com/courses/952581",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/952581/assignments/5712103/submissions/316768839",
+      "submitted": true
     },
     {
       "title": "Full Paper Draft",
