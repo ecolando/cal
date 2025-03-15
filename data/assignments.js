@@ -485,8 +485,8 @@ assignments = {
       "title": "Presentation 2 - DRAFT",
       "course": "wl.202520.ME.26300.220",
       "dueDate": "2025-03-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/952581",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/952581/assignments/5920215/submissions/317446997",
+      "submitted": true
     }
   ]
 };
