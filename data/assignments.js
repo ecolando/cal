@@ -494,6 +494,20 @@ assignments = {
       "dueDate": "2025-03-14T23:59:00",
       "link": "https://www.gradescope.com/courses/952581/assignments/5920215/submissions/317446997",
       "submitted": true
+    },
+    {
+      "title": "Presentation - FINAL",
+      "course": "wl.202520.ME.26300.220",
+      "dueDate": "2025-03-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/952581",
+      "submitted": false
+    },
+    {
+      "title": "Paper 2",
+      "course": "wl.202520.ME.26300.220",
+      "dueDate": "2025-04-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/952581",
+      "submitted": false
     }
   ]
 };
