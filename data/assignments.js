@@ -361,6 +361,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Homework 30 - (H.5.G, H.5.H)",
+      "course": "ME 274 - Krousgrill - 1:30 - Spring 2025",
+      "dueDate": "2025-04-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/948731",
+      "submitted": false
+    },
+    {
       "title": "Exam 1",
       "course": "ME 274 - Krousgrill - 1:30 - Spring 2025",
       "dueDate": "2025-02-12T22:00:00",
