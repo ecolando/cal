@@ -378,8 +378,8 @@ assignments = {
       "title": "Exam 2",
       "course": "ME 274 - Krousgrill - 1:30 - Spring 2025",
       "dueDate": "2025-04-03T22:00:00",
-      "link": "https://www.gradescope.com/courses/948731",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/948731/assignments/6021918/submissions/322308938",
+      "submitted": true
     }
   ],
   "wl.202520.ME.26300.220": [
