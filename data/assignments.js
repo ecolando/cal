@@ -555,8 +555,8 @@ assignments = {
       "title": "Deliverable 13",
       "course": "wl.202520.ME.26300.220",
       "dueDate": "2025-04-08T10:30:00",
-      "link": "https://www.gradescope.com/courses/952581",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/952581/assignments/5985251/submissions/322825555",
+      "submitted": true
     },
     {
       "title": "Deliverable 14",
