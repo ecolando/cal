@@ -117,8 +117,8 @@ assignments = {
       "title": "Mini Project Report",
       "course": "ECE20007-022",
       "dueDate": "2025-04-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/949439",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949439/assignments/5578072/submissions/324293687",
+      "submitted": true
     },
     {
       "title": "Final Project Report",
@@ -576,8 +576,8 @@ assignments = {
       "title": "Deliverable 14",
       "course": "wl.202520.ME.26300.220",
       "dueDate": "2025-04-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/952581",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/952581/assignments/5985343/submissions/324296604",
+      "submitted": true
     },
     {
       "title": "Deliverable 15",
