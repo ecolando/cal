@@ -27,6 +27,13 @@ assignments = {
       "dueDate": "2026-10-09T23:59:00-04:00",
       "link": "https://www.gradescope.com/courses/1364502/assignments/8816449/submissions/435939902",
       "submitted": true
+    },
+    {
+      "title": "Lab 5 Report - Wing Aerodynamic",
+      "course": "ME 30801 - Fall 2026",
+      "dueDate": "2026-10-16T23:59:00-04:00",
+      "link": "https://www.gradescope.com/courses/1364502",
+      "submitted": false
     }
   ],
   "ME 354 (Fall 2026)": [
@@ -57,6 +64,13 @@ assignments = {
       "dueDate": "2026-10-14T23:59:00-04:00",
       "link": "https://www.gradescope.com/courses/1351899/assignments/8420880/submissions/436174962",
       "submitted": true
+    },
+    {
+      "title": "HW 5",
+      "course": "ME 354 (Fall 2026)",
+      "dueDate": "2026-10-27T23:59:00-04:00",
+      "link": "https://www.gradescope.com/courses/1351899",
+      "submitted": false
     },
     {
       "title": "Exam 1",
