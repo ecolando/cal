@@ -32,8 +32,8 @@ assignments = {
       "title": "Lab 5 Report - Wing Aerodynamic",
       "course": "ME 30801 - Fall 2026",
       "dueDate": "2026-10-16T23:59:00-04:00",
-      "link": "https://www.gradescope.com/courses/1364502",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1364502/assignments/8866392/submissions/438310517",
+      "submitted": true
     }
   ],
   "ME 354 (Fall 2026)": [
@@ -194,6 +194,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Lab 8 - Code",
+      "course": "ME 375",
+      "dueDate": "2026-10-20T21:00:00-04:00",
+      "link": "https://www.gradescope.com/courses/1358527",
+      "submitted": false
+    },
+    {
       "title": "Homework 4",
       "course": "ME 375",
       "dueDate": "2026-09-24T21:00:00-04:00",
@@ -206,6 +213,13 @@ assignments = {
       "dueDate": "2026-09-08T21:00:00-04:00",
       "link": "https://www.gradescope.com/courses/1358527/assignments/8427210/submissions/424283004",
       "submitted": true
+    },
+    {
+      "title": "Lab 8 Attendance and Oral Evaluation",
+      "course": "ME 375",
+      "dueDate": "2026-10-20T16:30:00-04:00",
+      "link": "https://www.gradescope.com/courses/1358527/assignments/8427211/submissions/new",
+      "submitted": false
     },
     {
       "title": "Lab 4 - Code",
@@ -250,6 +264,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Homework 7",
+      "course": "ME 375",
+      "dueDate": "2026-10-22T21:00:00-04:00",
+      "link": "https://www.gradescope.com/courses/1358527",
+      "submitted": false
+    },
+    {
       "title": "Lab 7 - Live Script PDF",
       "course": "ME 375",
       "dueDate": "2026-10-06T21:00:00-04:00",
@@ -262,6 +283,13 @@ assignments = {
       "dueDate": "2026-10-06T16:30:00-04:00",
       "link": "https://www.gradescope.com/courses/1358527/assignments/8427221/submissions/434352378",
       "submitted": true
+    },
+    {
+      "title": "Lab 8 - Live Script PDF",
+      "course": "ME 375",
+      "dueDate": "2026-10-20T21:00:00-04:00",
+      "link": "https://www.gradescope.com/courses/1358527",
+      "submitted": false
     },
     {
       "title": "Lab 6 - Live Script PDF",
@@ -283,6 +311,13 @@ assignments = {
       "dueDate": "2026-10-08T21:00:00-04:00",
       "link": "https://www.gradescope.com/courses/1358527/assignments/8804643/submissions/434571588",
       "submitted": true
+    },
+    {
+      "title": "Homework 7 MCQs",
+      "course": "ME 375",
+      "dueDate": "2026-10-22T21:00:00-04:00",
+      "link": "https://www.gradescope.com/courses/1358527/assignments/8886218/submissions/new",
+      "submitted": false
     }
   ],
   "wl.202710.ECE.20002.002": [
@@ -297,6 +332,13 @@ assignments = {
       "title": "Quiz 2",
       "course": "wl.202710.ECE.20002.002",
       "dueDate": "2026-09-25T08:50:00-04:00",
+      "link": "https://www.gradescope.com/courses/1397300",
+      "submitted": false
+    },
+    {
+      "title": "Quiz 3",
+      "course": "wl.202710.ECE.20002.002",
+      "dueDate": "2026-10-16T08:47:00-04:00",
       "link": "https://www.gradescope.com/courses/1397300",
       "submitted": false
     }
