@@ -197,8 +197,8 @@ assignments = {
       "title": "Lab 8 - Code",
       "course": "ME 375",
       "dueDate": "2026-10-20T21:00:00-04:00",
-      "link": "https://www.gradescope.com/courses/1358527",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1358527/assignments/8427204/submissions/439250284",
+      "submitted": true
     },
     {
       "title": "Homework 4",
@@ -218,8 +218,8 @@ assignments = {
       "title": "Lab 8 Attendance and Oral Evaluation",
       "course": "ME 375",
       "dueDate": "2026-10-20T16:30:00-04:00",
-      "link": "https://www.gradescope.com/courses/1358527/assignments/8427211/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1358527/assignments/8427211/submissions/439201626",
+      "submitted": true
     },
     {
       "title": "Lab 4 - Code",
@@ -267,8 +267,8 @@ assignments = {
       "title": "Homework 7",
       "course": "ME 375",
       "dueDate": "2026-10-22T21:00:00-04:00",
-      "link": "https://www.gradescope.com/courses/1358527",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1358527/assignments/8427218/submissions/439884884",
+      "submitted": true
     },
     {
       "title": "Lab 7 - Live Script PDF",
@@ -288,8 +288,8 @@ assignments = {
       "title": "Lab 8 - Live Script PDF",
       "course": "ME 375",
       "dueDate": "2026-10-20T21:00:00-04:00",
-      "link": "https://www.gradescope.com/courses/1358527",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1358527/assignments/8427222/submissions/439249197",
+      "submitted": true
     },
     {
       "title": "Lab 6 - Live Script PDF",
@@ -316,8 +316,8 @@ assignments = {
       "title": "Homework 7 MCQs",
       "course": "ME 375",
       "dueDate": "2026-10-22T21:00:00-04:00",
-      "link": "https://www.gradescope.com/courses/1358527/assignments/8886218/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1358527/assignments/8886218/submissions/439885631",
+      "submitted": true
     }
   ],
   "wl.202710.ECE.20002.002": [
@@ -383,8 +383,8 @@ assignments = {
       "title": "Homework 5",
       "course": "wl.202710.ME.43300.001",
       "dueDate": "2026-10-23T15:30:00-04:00",
-      "link": "https://www.gradescope.com/courses/1375374",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/1375374/assignments/8844277/submissions/439052885",
+      "submitted": true
     }
   ]
 };
