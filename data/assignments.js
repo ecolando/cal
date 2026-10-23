@@ -292,6 +292,13 @@ assignments = {
       "submitted": true
     },
     {
+      "title": "Homework 8",
+      "course": "ME 375",
+      "dueDate": "2026-10-29T21:00:00-04:00",
+      "link": "https://www.gradescope.com/courses/1358527",
+      "submitted": false
+    },
+    {
       "title": "Lab 6 - Live Script PDF",
       "course": "ME 375",
       "dueDate": "2026-09-29T21:00:00-04:00",
@@ -318,6 +325,13 @@ assignments = {
       "dueDate": "2026-10-22T21:00:00-04:00",
       "link": "https://www.gradescope.com/courses/1358527/assignments/8886218/submissions/439885631",
       "submitted": true
+    },
+    {
+      "title": "Homework 8 MCQs",
+      "course": "ME 375",
+      "dueDate": "2026-10-29T21:00:00-04:00",
+      "link": "https://www.gradescope.com/courses/1358527/assignments/8925613/submissions/new",
+      "submitted": false
     }
   ],
   "wl.202710.ECE.20002.002": [
