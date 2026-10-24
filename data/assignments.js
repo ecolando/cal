@@ -397,8 +397,15 @@ assignments = {
       "title": "Homework 5",
       "course": "wl.202710.ME.43300.001",
       "dueDate": "2026-10-23T15:30:00-04:00",
-      "link": "https://www.gradescope.com/courses/1375374/assignments/8844277/submissions/439052885",
+      "link": "https://www.gradescope.com/courses/1375374/assignments/8844277/submissions/440666285",
       "submitted": true
+    },
+    {
+      "title": "HW 6",
+      "course": "wl.202710.ME.43300.001",
+      "dueDate": "2026-11-02T15:30:00-05:00",
+      "link": "https://www.gradescope.com/courses/1375374",
+      "submitted": false
     }
   ]
 };
